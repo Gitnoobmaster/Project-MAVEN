@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Abhishek </h1>
-<h1 align="center"> Please keep study like this for 15 days and you will definetly get a Job</h1>
+<h1 align="center">Welcome </h1>
+<h1 align="center">Welcome 2</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
